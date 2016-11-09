@@ -235,6 +235,7 @@ h5 {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
+    font-size: 18px;
 }
 
 
@@ -399,11 +400,11 @@ header .intro-section .buttons {
 }
 
 .features .feature .icon-container .icon {
-    width: 55px;
-    height: 55px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
-    line-height: 55px;
-    font-size: 18px;
+    line-height: 70px;
+    font-size: 22px;
     text-align: center;
     -webkit-transition: all ease-in 0.25s;
     transition: all ease-in 0.25s;
@@ -800,4 +801,13 @@ footer .copyright {
     color: #808080;
     padding-top: 10px;
     margin-bottom: 50px;
+}
+
+
+a:link {
+    color: #FF9900;
+}
+
+a:visited {
+    color: #ff9900;
 }
